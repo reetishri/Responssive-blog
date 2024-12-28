@@ -1,0 +1,28 @@
+@media screen and (mac-width:1200px) {
+    .navigation{
+        flex-direction: column;
+        margin-bottom: 23px;
+    }
+
+    .nav-left{
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .content-right{
+        display: none;
+    }
+
+    .home-article{
+        flex-direction: column;
+    }
+     
+    .form-input{
+        width: 50%;
+    }
+
+    .form-box input,textarea{
+        width: 66vw;
+    }
+    
+}
